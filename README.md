@@ -1,1 +1,4 @@
-# Level-3-Project
+# Douglas Figuracion
+# STEM 103
+# Project: Personal Budgeting Tool
+# Description: This tool is used for help create a budget for user taking into account income, expenses, and savings goals. The tool can save the inputted data to be used later on that way inputted information is not lost and be used in the budget summary. I tested the code by creating my own budget. I inputted info that would keep it within and outside the scope of the purpose for the tool, ensuring that the tool functions properly. I learned overall that code is capable of doing many things as long as you know how to read it. The new python feature that I used in the code was pickle. Pickle is a feature that saves the inputted data to be used later so that if user inputs information they do not have start form scratch everytime they work with the code or if something unforseen happens. The challenges that I faced was how to correctly get the code to flow properly for ease of use. I overcame it by repeatedly running the code in order to see if any errors would pop up or if the code was printing the way I wanted it to. 
